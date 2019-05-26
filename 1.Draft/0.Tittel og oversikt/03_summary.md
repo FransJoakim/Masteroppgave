@@ -1,6 +1,6 @@
 # Sammendrag {.unnumbered}
 
-Digitaliseringen av skolen har de siste årene blitt et faktum i den grad man ikke stiller spørsmål ved *om* det skjer, samtidig som det er en sak som er assosiert på forskjellige måter med forskjellige interesser. Det finnes liten klarhet i akkurat hvilken konsekvenser digitaliseringen av skolen har, vil ha og har hatt, som stammer fra denne sakens åpne karakter: dens fremtidsrettede, virtuelle nærvær, som er 'her' og ikke på en gang. I denne oppgaven tar jeg denne kompleksiteten som utgangspunkt for å forstå denne 'delokaliseringen'.
+Masteroppgaven handler om måten målstyring gjøres i skolen igjennom informasjonsinfrastruktur som muliggjør dens måle-praksis; organisering og evaluering av undervisning og læring. I tillegg til å basere seg på et etnografisk studie av digital infrastruktur tar jeg også utgangspunkt i kontroversene assosiert med digitaliseringen av skolen og hvordan disse artikuleres i påvente av den kommende læreplanreformen i 2020. Dette er gjort igjennom deltagende observasjon i en ungdomsskole og to sektorielle sektorielle forum for digital teknologi og infrastruktur og samtaler med representanter fra Utdanningsdirektoratet og Unit over en periode på to år. I tillegg til dette baserer jeg studie på dokumentstudier av de sentrale rapportene knyttet til den kommende og den tidligere læreplanreformen.
 
 
 \pagenumbering{roman}
