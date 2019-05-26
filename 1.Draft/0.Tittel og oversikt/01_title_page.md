@@ -15,14 +15,14 @@ and add the centred logo
         \vspace*{0.2cm}
 
         \Huge
-        Digital ontologi\\
-        \Large
-        Læring, informasjon og intelligenseringen av utdanningsteknologi
+        Læring og informasjon\\
+        \Largem
+        En etnografi av den digitaliserende skolen
 
         \vspace{0.3cm}
 
         \normalsize
-        \emph{av Frans Joakim Titulaer} 
+        \emph{av Frans Joakim Titulaer}
 
         \vspace{0.3cm}
         \begin{center}
