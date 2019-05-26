@@ -16,7 +16,7 @@ and add the centred logo
 
         \Huge
         Læring og informasjon\\
-        \Largem
+        \Large
         En etnografi av den digitaliserende skolen
 
         \vspace{0.3cm}
@@ -33,7 +33,7 @@ and add the centred logo
         \vspace{0.4cm}
 
         \normalsize
-        Masteroppgave ved senteret for Teknologi, Innovasjon and Kultur
+        Masteroppgave ved TIK senter for Teknologi, Innovasjon and Kultur
 
         \vfill
 
