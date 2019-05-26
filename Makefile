@@ -35,7 +35,7 @@ pdf:
 	-V fontsize=12pt \
 	-V papersize=a4paper \
 	-V documentclass:report \
-	-V mainfont='Times New Roman' \
+	-V mainfont='TeX Gyre Termes' \
 	-V lang=norsk \
 	-M lang=nb-NO \
 	-N \
@@ -54,7 +54,7 @@ pdf2:
 	-V papersize=a4paper \
 	-V documentclass:report \
 	-V lang=norsk \
-	-V mainfont='Times New Roman' \
+	-V mainfont='TeX Gyre Termes' \
 	-M lang=nb-NO \
 	-N \
 	--pdf-engine=xelatex \
